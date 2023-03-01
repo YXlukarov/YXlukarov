@@ -21,12 +21,21 @@
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2017.09.01",
+        "2021.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "中南大学",
+      "major": "软件工程",
       "academic_degree": "本科"
+    },
+    {
+      "edu_time": [
+        "2021.09.01",
+        "2024.06.30"
+      ],
+      "school": "中南大学",
+      "major": "软件工程",
+      "academic_degree": "研究生"
     }
   ],
   "awardList": [
@@ -41,10 +50,6 @@
     {
       "award_info": "前端练习生 可视化讲师",
       "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
     }
   ],
   "workExpList": [
